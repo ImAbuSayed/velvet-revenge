@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan ch nasha tera, dekhan main baar baar
+> I'm walking through the shadows, holding on to scars
+> Dil mera dhadke, jab tu aave mere paas
+> Midnight skyline, baby you’re my shining star
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
