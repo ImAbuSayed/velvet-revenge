@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-revenge/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Velvet Revenge](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-revenge/) |
+| **Get License** | [Get License For Velvet Revenge](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-revenge/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `52372e5da79d07e48f0595860c3102a45050aa25d2a0c57da6dda9f214ec1119` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
